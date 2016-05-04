@@ -2,3 +2,7 @@
 	path = ir-lib
 [submodule "ir-lib"]
 	url = https://github.com/ir-danielf/ir-lib
+[submodule "ct-lib"]
+	path = ct-lib
+[submodule "ct-lib"]
+	url = https://github.com/ir-danielf/ct-lib
